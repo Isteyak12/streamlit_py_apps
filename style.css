@@ -1,0 +1,10 @@
+<style>
+body {
+    background-image: linear-gradient(to bottom, #ffcccb, #ff6666); /* Set a gradient background */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white; /* Change text color to white */
+}
+</style>
